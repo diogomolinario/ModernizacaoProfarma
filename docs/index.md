@@ -1,8 +1,8 @@
 # Modernização Profarma
 
 <p align="center">
-  <img src="docs/assets/logo-fastlane.png" alt="Logo Fastlane" width="100"/>
-  <img src="docs/assets/logo-profarma.png" alt="Logo Profarma" width="180"/>
+  <img src="assets/logo-fastlane.png" alt="Logo Fastlane" width="100"/>
+  <img src="assets/logo-profarma.png" alt="Logo Profarma" width="180"/>
 </p>
 
 ## Visão Geral
@@ -69,16 +69,16 @@ Modernização do parque de aplicações Profarma: migrando sistemas COBOL com a
 
 ### Tela de Login (ilustrativa)
 
-![Tela de Login](docs/assets/login.png)
+![Tela de Login](assets/login.png)
 > Exemplo ilustrativo de tela de login moderna e responsiva.
 
 ### Plano de Fundo Profarma
 
-![Background visual Profarma](docs/assets/background.png)
+![Background visual Profarma](assets/background.png)
 
 ### Logotipo Fastlane Technology Solutions
 
-![Logo Fastlane](docs/assets/logo-fastlane.png)
+![Logo Fastlane](assets/logo-fastlane.png)
 
 ---
 
@@ -88,7 +88,7 @@ Modernização do parque de aplicações Profarma: migrando sistemas COBOL com a
    ```bash
    git clone https://github.com/diogomolinario/ModernizacaoProfarma.git
    ```
-2. Acesse e visualize os arquivos de documentação e exemplos visuais em `/docs/assets/`.
+2. Acesse e visualize os arquivos de documentação e exemplos visuais em `/assets/`.
 
 3. Para contribuir, crie um fork, edite e envie um pull request.
 
@@ -96,7 +96,7 @@ Modernização do parque de aplicações Profarma: migrando sistemas COBOL com a
 
 ## Habilitando Site Estático (GitHub Pages)
 
-1. Faça upload das imagens e arquivos estáticos na pasta `/docs/assets`.
+1. Faça upload das imagens e arquivos estáticos na pasta `/assets`.
 2. No GitHub, acesse as configurações do repositório (`Settings > Pages`).
 3. Em "Source", selecione o branch `main` e a pasta `/docs` como fonte do site.
 4. O GitHub Pages irá publicar todo conteúdo estático da pasta `/docs`. O README.md pode ser renomeado para `index.md` para ser a página inicial, se desejar.
@@ -107,7 +107,7 @@ Modernização do parque de aplicações Profarma: migrando sistemas COBOL com a
 ```
 ModernizacaoProfarma/
 │
-├─ docs/
+├─ 
 │   ├─ assets/
 │   │   ├─ login.png
 │   │   ├─ background.png
