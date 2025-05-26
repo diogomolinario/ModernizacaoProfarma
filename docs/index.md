@@ -1,7 +1,7 @@
 # Modernização Profarma
 
 <p align="center">
-  <img src="assets/logo-fastlane.png" alt="Logo Fastlane" width="100"/>
+  <img src="assets/logo-fastlane.png" alt="Logo Fastlane" width="180"/>
   <img src="assets/logo-profarma.png" alt="Logo Profarma" width="180"/>
 </p>
 
@@ -79,43 +79,6 @@ Modernização do parque de aplicações Profarma: migrando sistemas COBOL com a
 ### Logotipo Fastlane Technology Solutions
 
 ![Logo Fastlane](assets/logo-fastlane.png)
-
----
-
-## Como usar este repositório
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone https://github.com/diogomolinario/ModernizacaoProfarma.git
-   ```
-2. Acesse e visualize os arquivos de documentação e exemplos visuais em `/assets/`.
-
-3. Para contribuir, crie um fork, edite e envie um pull request.
-
----
-
-## Habilitando Site Estático (GitHub Pages)
-
-1. Faça upload das imagens e arquivos estáticos na pasta `/assets`.
-2. No GitHub, acesse as configurações do repositório (`Settings > Pages`).
-3. Em "Source", selecione o branch `main` e a pasta `/docs` como fonte do site.
-4. O GitHub Pages irá publicar todo conteúdo estático da pasta `/docs`. O README.md pode ser renomeado para `index.md` para ser a página inicial, se desejar.
-5. O site ficará disponível em:  
-   `https://diogomolinario.github.io/ModernizacaoProfarma/`
-
-**Exemplo de organização de arquivos:**
-```
-ModernizacaoProfarma/
-│
-├─ 
-│   ├─ assets/
-│   │   ├─ login.png
-│   │   ├─ background.png
-│   │   └─ logo-fastlane.png
-│   └─ index.md   (pode ser uma cópia do README.md)
-│
-└─ README.md
-```
 
 ---
 
