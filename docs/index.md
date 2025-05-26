@@ -1,8 +1,8 @@
 # Modernização Profarma
 
 <p align="center">
-  <img src="assets/logo-fastlane.png" alt="Logo Fastlane" width="180"/>
-  <img src="assets/logo-profarma.png" alt="Logo Profarma" width="180"/>
+  <img src="assets/logo-fastlane.png" alt="Logo Fastlane" width="180" heigth="100" />
+  <img src="assets/logo-profarma.png" alt="Logo Profarma" width="180" heigth="100" />
 </p>
 
 ## Visão Geral
